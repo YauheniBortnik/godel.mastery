@@ -1,4 +1,4 @@
-# Hello, world program
+# "Hello, world!" program
 This is first lab at Godel technologies. This program gets template and replace variables in it with needed values.
 
 ## Getting started
